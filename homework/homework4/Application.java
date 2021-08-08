@@ -1,6 +1,4 @@
-package homework4;
-
-import java.util.Scanner;
+package homework.homework4;
 
 public class Application {
 
